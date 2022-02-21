@@ -13,15 +13,15 @@
 
 + собственное проектное предложение
 
-Темы прошлогодних эссе можно посмотреть [здесь](https://docs.google.com/spreadsheets/d/1BTi6BvkOUnkGIsIz2KXwJPZycxnDVTs62B2hic4U8BM/edit#gid=1515782701)
+Темы прошлых эссе можно посмотреть [здесь](https://docs.google.com/spreadsheets/d/1BTi6BvkOUnkGIsIz2KXwJPZycxnDVTs62B2hic4U8BM/edit#gid=1515782701) и [здесь (вкладка "темы эссе 2021")](https://docs.google.com/spreadsheets/d/12e1FOVfFTfMDXthu1XsSK1MkcpB_4hUJHfJ8If2xcsE/edit?usp=sharing)
 
 **Timeline**
 
-1. до 7 июня -- Вы определяетесь с темой, статьями, вписываете тему, идею, статьи и т.п. в [таблицу](https://docs.google.com/spreadsheets/d/12e1FOVfFTfMDXthu1XsSK1MkcpB_4hUJHfJ8If2xcsE/edit?usp=sharing) (вкладка Темы эссе)
+1. до X июня -- Вы определяетесь с темой, статьями, вписываете тему, идею, статьи и т.п. в [таблицу](https://docs.google.com/spreadsheets/d/12e1FOVfFTfMDXthu1XsSK1MkcpB_4hUJHfJ8If2xcsE/edit?usp=sharing) (вкладка "темы эссе 2022")
 
-2. до 11 июня -- мы комментируем тему, статьи и т.п.
+2. до X+7 июня -- мы комментируем тему, статьи и т.п.
 
-3. **23 июня, 15:00** -- дедлайн сдачи эссе, отправляйте эссе на оба наших адреса
+3. **TBD июня** -- дедлайн сдачи эссе, отправляйте эссе на оба наших адреса
 
 **Несколько идей эссе**
 
