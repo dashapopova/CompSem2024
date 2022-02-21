@@ -39,7 +39,7 @@
 
 + преимущества и недостатки аннотаторов-лингвистов и аннотаторов-нелингвистов: аргументируйте свою позицию с отсылкой на корпуса, которые мы обсуждали: SNLI, MultiNLI, PragBank, CommitmentBank, ANLI
 
-+ насколько, с точки зрения теоретического лингвиста, может быть оправдан premise-only подход к NLI? В чем его преимущества или недостатки перед premise-hypothesis подходом?
++ насколько, с точки зрения теоретического лингвиста, может быть оправдан premise-only и [hypothesis-only](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwj-vuevlpD2AhXps4sKHcjmANEQFnoECAcQAQ&url=https%3A%2F%2Fnarad.github.io%2Fpapers%2Fhypothesis-baselines-natural.pdf&usg=AOvVaw1Ck_efY9j1ERqfLjF0XUvI) подход к NLI? В чем преимущества или недостатки этих подходов перед premise-hypothesis подходом?
 
 **RSA**
 
