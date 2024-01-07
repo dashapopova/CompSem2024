@@ -8,11 +8,11 @@
 
 + собственное проектное предложение (может быть на основе домашних заданий)
 
-Темы прошлых эссе можно посмотреть [здесь](https://docs.google.com/spreadsheets/d/1BTi6BvkOUnkGIsIz2KXwJPZycxnDVTs62B2hic4U8BM/edit#gid=1515782701) и [здесь (вкладка "темы эссе 2021/2022")](https://docs.google.com/spreadsheets/d/12e1FOVfFTfMDXthu1XsSK1MkcpB_4hUJHfJ8If2xcsE/edit?usp=sharing)
+Темы прошлых эссе можно посмотреть [здесь](https://docs.google.com/spreadsheets/d/1BTi6BvkOUnkGIsIz2KXwJPZycxnDVTs62B2hic4U8BM/edit#gid=1515782701) и [здесь (вкладки "темы эссе 2021/2022/2023")](https://docs.google.com/spreadsheets/d/12e1FOVfFTfMDXthu1XsSK1MkcpB_4hUJHfJ8If2xcsE/edit?usp=sharing)
 
 **Timeline**
 
-1. до  -- Вы определяетесь с темой, статьями, вписываете тему, идею, статьи и т.п. в [таблицу](https://docs.google.com/spreadsheets/d/12e1FOVfFTfMDXthu1XsSK1MkcpB_4hUJHfJ8If2xcsE/edit?usp=sharing) (вкладка "темы эссе 2023")
+1. до  -- Вы определяетесь с темой, статьями, вписываете тему, идею, статьи и т.п. в [таблицу](https://docs.google.com/spreadsheets/d/12e1FOVfFTfMDXthu1XsSK1MkcpB_4hUJHfJ8If2xcsE/edit?usp=sharing) (вкладка "темы эссе 2024")
 
 2. до  -- мы комментируем тему, статьи и т.п., консультация в конце пары 
 
