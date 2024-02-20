@@ -23,9 +23,9 @@
 
 Примерный алгоритм (можно делать по-другому, но тогда кратко поясните, что и почему Вы делаете):
 
-- приводим изначальный [дейтасет](https://github.com/mcdm/CommitmentBank/blob/master/CommitmentBank-items.csv) к нужному виду: берем средний рейтинг для каждого стимула, средний рейтинг в интервале [1,3] -- следствие (entailment), [0] -- нейтральное отношение (neutral), в интервале [-3,-1] -- противоречие (contradiction), приведите соответствующий код (0,5 балла);
+- приводим изначальный [дейтасет](https://github.com/mcdm/CommitmentBank/blob/master/CommitmentBank-items.csv) к нужному виду: берем средний рейтинг для каждого стимула, средний рейтинг в интервале [1,3] -- следствие (entailment), [0] -- нейтральное отношение (neutral), в интервале [-3,-1] -- противоречие (contradiction), приведите код, который создает из изначального дейтасета файл, который Вы подаете на вход BERT (0,5 балла);
 
-- с помощью любой модели семейства BERT ([хендаут про BERT](https://github.com/dashapopova/CompSem2024/blob/main/compsem_bert_Nika_Zykova.ipynb)) предскажите лейбл отношения (entailment, neutral, contradiction) для пары [CLS]Target[SEP]Prompt, приведите релевантный код и precision, recall, F1 (3 балла);
+- с помощью любой модели семейства BERT ([хендаут про BERT](https://github.com/dashapopova/CompSem2024/blob/main/compsem_bert_Nika_Zykova.ipynb)) предскажите лейбл отношения (entailment, neutral, contradiction) для пары Target+Prompt (подсказка: подумайте, как использовать [CLS] и [SEP]), приведите релевантный код и precision, recall, F1 (3 балла);
 
 - кратко прокомментируйте результат (0,5 балла).
 
