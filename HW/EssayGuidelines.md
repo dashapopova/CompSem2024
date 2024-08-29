@@ -8,15 +8,15 @@
 
 + собственное проектное предложение (может быть на основе домашних заданий)
 
-Темы прошлых эссе можно посмотреть [здесь](https://docs.google.com/spreadsheets/d/1BTi6BvkOUnkGIsIz2KXwJPZycxnDVTs62B2hic4U8BM/edit#gid=1515782701) и [здесь (вкладки "темы эссе 2021/2022/2023")](https://docs.google.com/spreadsheets/d/12e1FOVfFTfMDXthu1XsSK1MkcpB_4hUJHfJ8If2xcsE/edit?usp=sharing)
+Темы прошлых эссе можно посмотреть [здесь](https://docs.google.com/spreadsheets/d/1BTi6BvkOUnkGIsIz2KXwJPZycxnDVTs62B2hic4U8BM/edit#gid=1515782701) и [здесь (вкладки "темы эссе 2021/2022/2023/лето 2024")](https://docs.google.com/spreadsheets/d/12e1FOVfFTfMDXthu1XsSK1MkcpB_4hUJHfJ8If2xcsE/edit?usp=sharing)
 
 **Timeline**
 
-1. до 27 мая  -- Вы определяетесь с темой, статьями, вписываете тему, идею, статьи и т.п. в [таблицу](https://docs.google.com/spreadsheets/d/12e1FOVfFTfMDXthu1XsSK1MkcpB_4hUJHfJ8If2xcsE/edit?usp=sharing) (вкладка "темы эссе 2024")
+1. за день до последней пары  -- Вы определяетесь с темой, статьями, вписываете тему, идею, статьи и т.п. в [таблицу](https://docs.google.com/spreadsheets/d/12e1FOVfFTfMDXthu1XsSK1MkcpB_4hUJHfJ8If2xcsE/edit?usp=sharing) (вкладка "темы эссе осень-зима 2024")
 
-2. до 28 мая  -- мы комментируем тему, статьи и т.п., консультация в конце пары 
+2. до последней пары  -- мы комментируем тему, статьи и т.п., консультация в конце пары 
 
-3. **11 июня** -- дедлайн сдачи эссе, отправляйте эссе на оба наших адреса, после дедлайна работы не принимаются
+3. **TBD в зимнюю сессию** -- дедлайн сдачи эссе, отправляйте эссе на оба наших адреса, после дедлайна работы не принимаются
 
 **Несколько идей эссе**
 
